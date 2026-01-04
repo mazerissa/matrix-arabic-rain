@@ -1,0 +1,2 @@
+# No dependencies required!
+# Just Python 3 and a terminal with UTF-8 support
