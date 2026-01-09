@@ -1,17 +1,28 @@
-# Matrix Arabic Rain 🌧️🔢
+<div align="center">
 
-![Matrix Arabic Rain Demo](https://img.shields.io/badge/Matrix-Arabic%20Rain-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
-![Terminal](https://img.shields.io/badge/Terminal-ANSI%20Color-green)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+<h1>Matrix Arabic Rain 🌧️🔢</h1>
 
-A mesmerizing terminal-based digital rain effect inspired by *The Matrix*, but with a twist – it uses beautiful Arabic script instead of Japanese katakana. Watch as Arabic letters and numbers cascade down your screen in the iconic green-on-black Matrix style.
+<img src="https://img.shields.io/badge/matrix-arabic%20rain-brightgreen" alt="Matrix Arabic Rain">
+<img src="https://img.shields.io/badge/python-3.6+-blue.svg" alt="Python 3.6+">
+<img src="https://img.shields.io/badge/terminal-ansi%20color-green" alt="Terminal ANSI Color">
+<img src="https://img.shields.io/badge/license-mit-yellow.svg" alt="MIT License">
+
+<br>
+<br>
+
+<img src="matrix_demo.gif" width="1200">
+<br>
+<em>Arabic script cascading in the iconic Matrix style</em>
+
+</div>
+
+A mesmerizing terminal-based digital rain effect inspired by **The Matrix**, but with a twist – it uses beautiful Arabic script instead of Japanese katakana. Watch as Arabic letters and numbers cascade down your screen in the iconic green-on-black Matrix style.
 
 ## ✨ Features
 
 - **Authentic Matrix Effect**: Real digital rain with proper fading trails and speed variations
 - **Arabic Script**: Uses Arabic letters (أ ب ت ث...) and Eastern Arabic numerals (٠ ١ ٢...)
-- **Cinematic Visuals**: 
+- **Cinematic Visuals**:
   - Bright white head characters
   - Green-to-faint color gradients
   - Glitch effects like in the movie
@@ -31,11 +42,6 @@ cd matrix-arabic-rain
 python matrix_final.py
 ```
 
-Or use the launcher:
-```bash
-python run.py
-```
-
 Press **Ctrl+C** to exit gracefully.
 
 ## 📁 Project Structure
@@ -48,9 +54,11 @@ matrix-arabic-rain/
 ├── matrix_glitch.py     # Added Matrix glitch effects
 ├── matrix_speed.py      # Variable speed drops
 ├── matrix_final.py      # Final optimized version ★
-├── run.py              # Convenience launcher
-├── requirements.txt    # Python requirements (none needed!)
-└── README.md          # This file
+├── requirements.txt     # Python requirements (none needed!)
+├── README.md           # This file
+├── matrix_demo.gif     # Demo animation
+├── LICENSE             # MIT License
+└── .gitignore         # Git ignore file
 ```
 
 ## 🔧 Requirements
@@ -110,10 +118,10 @@ python matrix_speed.py     # Variable speeds
 
 ## 📚 Development Journey
 
-This project was built in 8 logical commits, each adding a new feature:
+This project was built in logical steps, each adding a new feature:
 
-| Commit | Feature Added | File |
-|--------|--------------|------|
+| # | Feature Added | File |
+|---|--------------|------|
 | 1 | Basic Arabic rain | `matrix_basic.py` |
 | 2 | Arabic numbers | `matrix_numbers.py` |
 | 3 | Fading trail effect | `matrix_fade.py` |
@@ -122,6 +130,9 @@ This project was built in 8 logical commits, each adding a new feature:
 | 6 | Final optimized version | `matrix_final.py` |
 | 7 | Requirements and launcher | `requirements.txt`, `run.py` |
 | 8 | Complete documentation | `README.md` |
+| 9 | Demo animation | `matrix_demo.gif` |
+| 10 | License file | `LICENSE` |
+| 11 | Git ignore file | `.gitignore` |
 
 ## 🧪 How It Works
 
@@ -199,7 +210,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 **"You take the blue pill, the story ends. You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes."**  
 *- Morpheus*
 
-[![Watch the Demo](https://img.shields.io/badge/WATCH-DEMO-red?style=for-the-badge)](https://github.com/mazerissa/matrix-arabic-rain)
+[![Watch the Demo](https://img.shields.io/badge/WATCH-DEMO-red?style=for-the-badge)](https://github.com/mazerissa/matrix-arabic-rain/blob/main/matrix_demo.gif)
 [![Star this repo](https://img.shields.io/badge/⭐-Star_this_repo-yellow?style=for-the-badge)](https://github.com/mazerissa/matrix-arabic-rain/stargazers)
 [![Fork](https://img.shields.io/badge/🍴-Fork_me-blue?style=for-the-badge)](https://github.com/mazerissa/matrix-arabic-rain/fork)
 
