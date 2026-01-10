@@ -128,7 +128,7 @@ This project was built in logical steps, each adding a new feature:
 | 4 | Matrix glitch effects | `matrix_glitch.py` |
 | 5 | Variable speed drops | `matrix_speed.py` |
 | 6 | Final optimized version | `matrix_final.py` |
-| 7 | Requirements and launcher | `requirements.txt`, `run.py` |
+| 7 | Requirements | `requirements.txt` |
 | 8 | Complete documentation | `README.md` |
 | 9 | Demo animation | `matrix_demo.gif` |
 | 10 | License file | `LICENSE` |
