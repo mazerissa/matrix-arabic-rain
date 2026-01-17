@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/matrix-arabic%20rain-brightgreen" alt="Matrix Arabic Rain">
 <img src="https://img.shields.io/badge/python-3.6+-blue.svg" alt="Python 3.6+">
-<img src="https://img.shields.io/badge/terminal-ansi%20color-green" alt="Terminal ANSI Color">
+<img src="https://img.shields.io/badge/terminal-ansi%20color-green" alt="Terminal ASCII Color">
 <img src="https://img.shields.io/badge/license-mit-yellow.svg" alt="MIT License">
 
 <br>
